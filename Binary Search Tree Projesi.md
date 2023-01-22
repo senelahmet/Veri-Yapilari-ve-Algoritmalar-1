@@ -3,10 +3,9 @@ Proje 3
 
 Örnek: root x'dir. root'un saðýndan y bulunur. Solunda z bulunur vb.
 
-```
-Root olarak 5 i seçtim. Sað tarafýnda kendinden büyük, sol tarafýnda kendinden küçük elemanlar bulunacak.  
+`Root olarak 5 i seçtim. Sað tarafýnda kendinden büyük, sol tarafýnda kendinden küçük elemanlar bulunacak.` 
 				  
-
+```
          5
       /     \
 	 3       8
