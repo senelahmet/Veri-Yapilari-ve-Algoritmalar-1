@@ -5,9 +5,9 @@ Proje 3
 ```
 Root olarak 5 i seçtim. Sað tarafýnda kendinden büyük, sol tarafýnda kendinden küçük elemanlar bulunacak.
 
-		         5
-		/   \
-		3       8
+		        5
+			  /   \
+			3       8
 		   /   \   /   \	 
 		  2     4 6     9
 		 / \           / 
