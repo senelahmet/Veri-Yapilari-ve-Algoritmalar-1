@@ -16,8 +16,10 @@ Big-O gösterimini yazýnýz.
 
 Time Complexity: Dizi sýralandýktan sonra 18 sayýsý aþaðýdaki case'lerden hangisinin kapsamýna girer? Yazýnýz.
 
-1.Average case: Aradýðýmýz sayýnýn ortada olmasý
-2.Worst case: Aradýðýmýz sayýnýn sonda olmasý
+1.Average case: Aradýðýmýz sayýnýn ortada olmasý.
+
+2.Worst case: Aradýðýmýz sayýnýn sonda olmasý.
+
 3.Best case: Aradýðýmýz sayýnýn dizinin en baþýnda olmasý.
 
 	18 sayýsý [2,6,16,18,22,27] dizisinin ortalarýnda bulunduðundan dolayý "Average case" kapsamýna girer.
@@ -27,7 +29,7 @@ Time Complexity: Dizi sýralandýktan sonra 18 sayýsý aþaðýdaki case'lerden hangis
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adýmýný yazýnýz.
 	
 
-	her adýmda dizideki en küçük ögeyi bularak doðru sýraya yerleþtiriyoruz.
+	Her adýmda dizideki en küçük ögeyi bularak doðru sýraya yerleþtiriyoruz.
 	[2,3,5,8,7,9,4,15,6] 
 	[2,3,4,8,7,9,5,15,6] 
 	[2,3,4,5,7,9,8,15,6] 
