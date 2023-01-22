@@ -2,17 +2,11 @@ Proje 3
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aþamalarýný yazýnýz.
 
 Örnek: root x'dir. root'un saðýndan y bulunur. Solunda z bulunur vb.
-```
-Root olarak 5 i seçtim. Sað tarafýnda kendinden büyük, sol tarafýnda kendinden küçük elemanlar bulunacak.
 
-		         5
-			  /     \
-			3        8
-		   /   \   /   \	 
-		  2     4 6     9
-		 / \           / 
-		0   1         7  
-```
+	Root olarak 5 i seçtim. Sað tarafýnda kendinden büyük, sol tarafýnda kendinden küçük elemanlar bulunacak.
+
+![](https://r.resimlink.com/B6xKz-Wy2Vv.png)
+
 		
 
 
