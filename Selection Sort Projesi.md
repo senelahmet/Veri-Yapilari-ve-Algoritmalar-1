@@ -1,35 +1,36 @@
 # Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
 
-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+if gitadd.
+YukarÄ± verilen dizinin sort tÃ¼rÃ¼ne gÃ¶re aÅŸamalarÄ±nÄ± yazÄ±nÄ±z.
 
-	Her aşamada bir elemanın yerini değiştirerek son sıralanmış listeyi oluşturuyoruz.
+	Her aÅŸamada bir elemanÄ±n yerini deÄŸiÅŸtirerek son sÄ±ralanmÄ±ÅŸ listeyi oluÅŸturuyoruz.
 	1- [22,27,16,2,18,6] 
 	2- [16,22,27,2,18,6]
 	3- [2,16,22,27,18,6]
 	4- [2,16,18,22,27,6]
 	5- [2,6,16,18,22,27]
 
-Big-O gösterimini yazınız.
+Big-O gÃ¶sterimini yazÄ±nÄ±z.
 
 	Big-O = O(n^2)
 
-Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+Time Complexity: Dizi sÄ±ralandÄ±ktan sonra 18 sayÄ±sÄ± aÅŸaÄŸÄ±daki case'lerden hangisinin kapsamÄ±na girer? YazÄ±nÄ±z.
 
-1.Average case: Aradığımız sayının ortada olması.
+1.Average case: AradÄ±ÄŸÄ±mÄ±z sayÄ±nÄ±n ortada olmasÄ±.
 
-2.Worst case: Aradığımız sayının sonda olması.
+2.Worst case: AradÄ±ÄŸÄ±mÄ±z sayÄ±nÄ±n sonda olmasÄ±.
 
-3.Best case: Aradığımız sayının dizinin en başında olması.
+3.Best case: AradÄ±ÄŸÄ±mÄ±z sayÄ±nÄ±n dizinin en baÅŸÄ±nda olmasÄ±.
 
-	18 sayısı [2,6,16,18,22,27] dizisinin ortalarında bulunduğundan dolayı "Average case" kapsamına girer.
+	18 sayÄ±sÄ± [2,6,16,18,22,27] dizisinin ortalarÄ±nda bulunduÄŸundan dolayÄ± "Average case" kapsamÄ±na girer.
 	
 
 
-[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a gÃ¶re ilk 4 adÄ±mÄ±nÄ± yazÄ±nÄ±z.
 	
 
-	Her adımda dizideki en küçük ögeyi bularak doğru sıraya yerleştiriyoruz.
+	Her adÄ±mda dizideki en kÃ¼Ã§Ã¼k Ã¶geyi bularak doÄŸru sÄ±raya yerleÅŸtiriyoruz.
 	[2,3,5,8,7,9,4,15,6] 
 	[2,3,4,8,7,9,5,15,6] 
 	[2,3,4,5,7,9,8,15,6] 
